@@ -1,4 +1,4 @@
-## Please report the bugs of https://cee.studion here
+## Please report the bugs of https://cee.studio here
 
 * Known bugs
   - code completion does not work reliably
